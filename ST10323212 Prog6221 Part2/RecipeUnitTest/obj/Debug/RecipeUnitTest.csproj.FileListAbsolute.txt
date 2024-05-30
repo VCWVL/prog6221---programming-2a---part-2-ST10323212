@@ -1,0 +1,2 @@
+C:\Users\user-pc\Desktop\Jolder\ST10323212 Prog6221 Part2\RecipeUnitTest\obj\Debug\RecipeUnitTest.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\Jolder\ST10323212 Prog6221 Part2\RecipeUnitTest\obj\Debug\RecipeUnitTest.csproj.CoreCompileInputs.cache

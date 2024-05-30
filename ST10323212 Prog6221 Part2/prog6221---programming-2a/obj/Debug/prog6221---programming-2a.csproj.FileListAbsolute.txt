@@ -1,0 +1,30 @@
+C:\Users\jorda\source\repos\prog6221---programming-2a\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.exe.config
+C:\Users\jorda\source\repos\prog6221---programming-2a\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.exe
+C:\Users\jorda\source\repos\prog6221---programming-2a\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.pdb
+C:\Users\jorda\source\repos\prog6221---programming-2a\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\prog6221---programming-2a\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorda\source\repos\prog6221---programming-2a\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\prog6221---programming-2a\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.exe
+C:\Users\jorda\source\repos\prog6221---programming-2a\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.pdb
+C:\Users\jorda\source\repos\prog6221---programming-2a---part-2-jordancb54321\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.exe.config
+C:\Users\jorda\source\repos\prog6221---programming-2a---part-2-jordancb54321\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.exe
+C:\Users\jorda\source\repos\prog6221---programming-2a---part-2-jordancb54321\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.pdb
+C:\Users\jorda\source\repos\prog6221---programming-2a---part-2-jordancb54321\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\prog6221---programming-2a---part-2-jordancb54321\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorda\source\repos\prog6221---programming-2a---part-2-jordancb54321\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\prog6221---programming-2a---part-2-jordancb54321\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.exe
+C:\Users\jorda\source\repos\prog6221---programming-2a---part-2-jordancb54321\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.pdb
+C:\Users\user-pc\Desktop\Jolder\prog6221---programming-2a---part-2-jordancb54321-main\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.exe.config
+C:\Users\user-pc\Desktop\Jolder\prog6221---programming-2a---part-2-jordancb54321-main\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.exe
+C:\Users\user-pc\Desktop\Jolder\prog6221---programming-2a---part-2-jordancb54321-main\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.pdb
+C:\Users\user-pc\Desktop\Jolder\prog6221---programming-2a---part-2-jordancb54321-main\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\Jolder\prog6221---programming-2a---part-2-jordancb54321-main\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\Jolder\prog6221---programming-2a---part-2-jordancb54321-main\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.exe
+C:\Users\user-pc\Desktop\Jolder\prog6221---programming-2a---part-2-jordancb54321-main\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.pdb
+C:\Users\user-pc\Desktop\Jolder\ST10323212 Prog6221 Part2\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.exe.config
+C:\Users\user-pc\Desktop\Jolder\ST10323212 Prog6221 Part2\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.exe
+C:\Users\user-pc\Desktop\Jolder\ST10323212 Prog6221 Part2\prog6221---programming-2a\bin\Debug\prog6221---programming-2a.pdb
+C:\Users\user-pc\Desktop\Jolder\ST10323212 Prog6221 Part2\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\Jolder\ST10323212 Prog6221 Part2\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\Jolder\ST10323212 Prog6221 Part2\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.exe
+C:\Users\user-pc\Desktop\Jolder\ST10323212 Prog6221 Part2\prog6221---programming-2a\obj\Debug\prog6221---programming-2a.pdb

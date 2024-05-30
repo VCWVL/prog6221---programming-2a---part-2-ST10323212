@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23B9EBB1-0177-404E-ADB9-D7FBA9B2455B}|RecipeUnitTest\\RecipeUnitTest.csproj|c:\\users\\user-pc\\desktop\\jolder\\st10323212 prog6221 part2\\recipeunittest\\calorietest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B9EBB1-0177-404E-ADB9-D7FBA9B2455B}|RecipeUnitTest\\RecipeUnitTest.csproj|solutionrelative:recipeunittest\\calorietest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AB9CE7-CF8A-4C21-9009-BE062E6C7BD2}|prog6221---programming-2a\\prog6221---programming-2a.csproj|c:\\users\\user-pc\\desktop\\jolder\\st10323212 prog6221 part2\\prog6221---programming-2a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AB9CE7-CF8A-4C21-9009-BE062E6C7BD2}|prog6221---programming-2a\\prog6221---programming-2a.csproj|solutionrelative:prog6221---programming-2a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AB9CE7-CF8A-4C21-9009-BE062E6C7BD2}|prog6221---programming-2a\\prog6221---programming-2a.csproj|C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\prog6221---programming-2a\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AB9CE7-CF8A-4C21-9009-BE062E6C7BD2}|prog6221---programming-2a\\prog6221---programming-2a.csproj|solutionrelative:prog6221---programming-2a\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AB9CE7-CF8A-4C21-9009-BE062E6C7BD2}|prog6221---programming-2a\\prog6221---programming-2a.csproj|C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\prog6221---programming-2a\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AB9CE7-CF8A-4C21-9009-BE062E6C7BD2}|prog6221---programming-2a\\prog6221---programming-2a.csproj|solutionrelative:prog6221---programming-2a\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalorieTest.cs",
+              "DocumentMoniker": "C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\RecipeUnitTest\\CalorieTest.cs",
+              "RelativeDocumentMoniker": "RecipeUnitTest\\CalorieTest.cs",
+              "ToolTip": "C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\RecipeUnitTest\\CalorieTest.cs",
+              "RelativeToolTip": "RecipeUnitTest\\CalorieTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:38:30.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\prog6221---programming-2a\\Methods.cs",
+              "RelativeDocumentMoniker": "prog6221---programming-2a\\Methods.cs",
+              "ToolTip": "C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\prog6221---programming-2a\\Methods.cs",
+              "RelativeToolTip": "prog6221---programming-2a\\Methods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:10:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\prog6221---programming-2a\\Recipe.cs",
+              "RelativeDocumentMoniker": "prog6221---programming-2a\\Recipe.cs",
+              "ToolTip": "C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\prog6221---programming-2a\\Recipe.cs",
+              "RelativeToolTip": "prog6221---programming-2a\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:10:10.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\prog6221---programming-2a\\Program.cs",
+              "RelativeDocumentMoniker": "prog6221---programming-2a\\Program.cs",
+              "ToolTip": "C:\\Users\\user-pc\\Desktop\\Jolder\\ST10323212 Prog6221 Part2\\prog6221---programming-2a\\Program.cs",
+              "RelativeToolTip": "prog6221---programming-2a\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:10:10.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
